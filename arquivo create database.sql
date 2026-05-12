@@ -1,0 +1,1 @@
+CREATE DATABASE quitanda_seu_nome;
