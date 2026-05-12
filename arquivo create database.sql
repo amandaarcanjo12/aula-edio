@@ -1,1 +1,1 @@
-CREATE DATABASE quitanda_seu_nome;
+CREATE DATABASE quitanda_Amanda;
